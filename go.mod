@@ -1,4 +1,4 @@
-module github.com/scademyai/gin-logger
+module github.com/scademyai/malicious-gin-logger
 
 go 1.22.3
 
